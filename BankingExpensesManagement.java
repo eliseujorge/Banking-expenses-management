@@ -1,4 +1,3 @@
-package dev.eliseujorge.bankingsystem;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
